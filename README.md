@@ -11,6 +11,7 @@
 * [Game Instructions](#game-instructions)
 * [Dependencies / Resources](#dependencies-/-resources)
 * [Contributing](#contributing)
+* [Credits](#credits)
 * [License](#license)
 
 ## About the Project
@@ -44,10 +45,13 @@ The game ends when all cards are matched. You can restart the game at any time b
 * Card Icons: [FlatIcon - Roundicons Freebies's Pokemon Go set](https://www.flaticon.com/packs/pokemon-go)
 * Rating Icons: [Font Awesome](https://fontawesome.com/)
 
-
 ## Contributing
 
 This repository contains the files of the 3rd project for Udacity Front-End Web Developer Nanodegree as they were submitted for review. Hence, ~~pull requests will most likely not be accepted~~ comments, bug reports, and suggestions for improvements are always welcome.
+
+## Credits
+
+Special thanks to [Saher Elgendy](https://github.com/saher-elgendy) for debugging!
 
 ## License
 
