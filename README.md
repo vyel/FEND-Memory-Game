@@ -1,13 +1,15 @@
 # Memory Game Project
+---
 
-[Udacity Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) third project, developed using HTML, CSS and JavaScript.
+**Third project for the [Udacity Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)(offered as part of the [EMEA Google Developer Scholarship Program 2017-2018](https://www.udacity.com/google-scholarships)).**
 
 
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [How to Play](#how-to-play)
-* [Dependencies/Resources](#dependencies-resources)
+* [Getting Started](#getting-started)
+* [Game Instructions](#game-instructions)
+* [Dependencies / Resources](#dependencies-/-resources)
 * [Contributing](#contributing)
 * [License](#license)
 
@@ -15,7 +17,17 @@
 
 The [starter project code](https://github.com/udacity/fend-project-memory-game) had some HTML and CSS styling to display a static version of the Memory Game project. We had to convert this project from a static project to an interactive one. This required modifying the HTML and CSS files, but primarily the JavaScript file.
 
-## How to Play
+## Getting Started
+
+To play this game,
+1. Clone or download this repository
+2. Open the index.html file in a browser of your choice,
+
+or
+
+play it online at https://vyel.github.io/FEND-Memory-Game
+
+## Game Instructions
 
 Click the cards to reveal the hidden character. The goal is to match the cards with the fewest possible moves.
 
@@ -25,7 +37,7 @@ The more moves you make, the less stars you gain:
 * less than 18 Moves - 2 stars
 * 18 Moves or more - 1 star
 
-The game ends when all cards are matched, or you can restart the game by clicking on the restart button.
+The game ends when all cards are matched. You can restart the game at any time by clicking on the restart button.
 
 ## Dependencies / Resources
 
@@ -35,9 +47,9 @@ The game ends when all cards are matched, or you can restart the game by clickin
 
 ## Contributing
 
-This repository contains the files for the 3rd project of Google Front-End Web Developer Nanodegree as they were submitted for review. Hence, pull requests will most likely not be accepted. For details, check out [CONTRIBUTING.md](CONTRIBUTING.md)
+This repository contains the files of the 3rd project for Udacity Front-End Web Developer Nanodegree as they were submitted for review. Hence, ~~pull requests will most likely not be accepted~~ comments, bug reports, and suggestions for improvements are always welcome.
 
 ## License
 
-This project is licensed under a [MIT License](https://choosealicense.com/licenses/mit/).
+This project is licensed under the terms of the [MIT License](https://choosealicense.com/licenses/mit/).
 
