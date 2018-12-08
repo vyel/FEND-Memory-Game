@@ -26,7 +26,7 @@ To play this game,
 
 or
 
-play it online at https://vyel.github.io/FEND-Memory-Game
+play it online at https://vyel.github.io/FEND-Memory-Game/
 
 ## Game Instructions
 
