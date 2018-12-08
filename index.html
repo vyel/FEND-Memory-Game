@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Memory Game</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+    <header>
+        <h1>Memory Game</h1>
+    </header>
+
+    <main>
+        <!-- Score panel bar: stars, moves, timer, restart -->
+        <section class="score-panel">
+            <ul class="stars">
+        		<li><i class="fa fa-star"></i></li>
+        		<li><i class="fa fa-star"></i></li>
+        		<li><i class="fa fa-star"></i></li>
+        	</ul>
+
+        	<span class="moves"></span>
+
+            <span class="timer">00m : 00s</span>
+
+            <div class="restart">
+        		<i class="fa fa-repeat"></i>
+        	</div>
+        </section>
+
+        <!-- Card deck -->
+        <ul class="deck">
+        <!-- cards will be inserted dynamically-->
+        </ul>
+
+        <!-- Won Modal-->
+        <section class="wonMessageModal showWonModal hideWonModal">
+
+            <!-- Won Modal content-->
+            <div class = "wonMessageContent">
+                <h2>Congratulations!</h2>
+                <p class="wonMessage"></p>
+                <p class="starsWon"></p>
+                <button class="newGameBtn">New Game</button>
+            </div>
+        </section>
+    </main>
+
+    <!--Author and Copyright information-->
+     <footer>
+        <p>&copy; 2018 Violeta T.</p>
+        <p>Icons made by <a href="https://www.flaticon.com/authors/roundicons-freebies" title="Roundicons Freebies">Roundicons Freebies</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></p>
+    </footer>
+
+    <script src="js/app.js"></script>
+
+</body>
+</html>
