@@ -10,7 +10,7 @@ message which will contain a congratulatory message,
 number of moves, time elapsed, number of stars,
 and new game button.
 ************************************************/
-
+ 
 /***********************************************
 	Const variables
 	- except newGame and restart buttons
